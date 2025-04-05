@@ -1,9 +1,9 @@
 ## IPv4 Checker
 ### flowchart
-![ipv4 flowchart](res/_IPv4.png)
+![ipv4 flowchart](src/main/resources/IPv4.png)
 
 ---------------
 
 ## Sudoku Checker
 ### flowchart
-![sudoku flowchart](res/_Sudoku.png)
+![sudoku flowchart](src/main/resources/Sudoku.png)
